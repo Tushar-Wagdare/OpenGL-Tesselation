@@ -13,8 +13,8 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 ![Standard Tessellation](02_Tessilation/S1.png)
 
 ## Video Demo
-
-[Link to Video Demo]
+[![OpenGL](01_HeightMap/HeightMap.png)](https://youtu.be/SkPq1Y5yoWk)
+[![OpenGL](02_Tessilation/Tesselation.png)](https://youtu.be/Sx4YjVkJDxQ)
 
 ## Folder Structure
 
@@ -35,7 +35,6 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 Before building and running this project, you need to install the following dependencies:
 
 *   **GLEW (OpenGL Extension Wrangler Library):** Download GLEW and add the `include` directory and library files (e.g., `glew32.lib`) to your system environment variables.
-*   **Assimp (Open Asset Importer Library):** Download Assimp and add the `include` directory and library files to your system environment variables.
 *   **GLM (OpenGL Mathematics):** Download GLM. GLM is a header-only library, so simply copy the `glm` directory into your project's include path.
 
 **Note:** Adding GLEW, Assimp and GLM to your system environment variables ensures that Visual Studio can find them during the build process. This typically involves adding paths to the `INCLUDE` and `LIB` environment variables.
