@@ -10,7 +10,7 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 ![Height Map Tessellation](01_HeightMap/S1.png)
 
 ##### Simple Tesselation
-![Standard Tessellation](02_Tessellation/S1.png)
+![Standard Tessellation](02_Tessilation/S1.png)
 
 ## Video Demo
 
