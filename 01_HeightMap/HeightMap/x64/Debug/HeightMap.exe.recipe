@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\tusha\Desktop\MyOpenGL\34_HeightMap\x64\Debug\HeightMap.exe</FullPath>
+      <FullPath>C:\Users\tusha\Desktop\OpenGL\OpenGL-Tesselation\01_HeightMap\x64\Debug\HeightMap.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
