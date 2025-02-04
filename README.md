@@ -11,7 +11,7 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 
 
 
-## Video Demo
+
 
 [![OpenGL](01_HeightMap/HeightMap.png)](https://youtu.be/SkPq1Y5yoWk)
 
@@ -22,7 +22,7 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 
 
 
-## Video Demo
+
 
 [![OpenGL](02_Tessilation/Tesselation.png)](https://youtu.be/Sx4YjVkJDxQ)
 
