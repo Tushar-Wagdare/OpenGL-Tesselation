@@ -6,7 +6,7 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 
 ## Screenshots
 
-To maintain visual consistency, all images are displayed with a maximum width of 600 pixels.
+To maintain visual consistency, all images are displayed with a maximum width of 600 pixels. This ensures that larger images are scaled down to fit the layout, while smaller images retain their original size and are not stretched. The height is automatically adjusted to preserve the aspect ratio.
 
 ##### Height Map Tessellation
 
@@ -64,7 +64,7 @@ After successfully building the project, you can run the executable located in t
 ```html
 <style>
 img {
-  max-width: 600px; /* Set your desired standard width */
+  max-width: 600px; /* Images wider than 600px will be scaled down. Smaller images will remain at their original size. */
   height: auto; /* Maintain aspect ratio */
 }
 </style>
