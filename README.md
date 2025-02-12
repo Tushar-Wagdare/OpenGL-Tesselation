@@ -23,8 +23,8 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 
 
 
+[![Video Thumbnail](https://youtu.be/Sx4YjVkJDxQ/hqdefault.jpg)](https://youtu.be/Sx4YjVkJDxQ)
 
-[![OpenGL](02_Tessilation/Tesselation.png)](https://youtu.be/Sx4YjVkJDxQ)
 
 ## Folder Structure
 
