@@ -6,25 +6,19 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 
 ## Screenshots
 
-##### Height Map Tesselation
+To maintain visual consistency, all images are displayed with a maximum width of 600 pixels.
+
+##### Height Map Tessellation
+
 ![Height Map Tessellation](01_HeightMap/S1.png)
 
+[![OpenGL - Height Map Demo](01_HeightMap/HeightMap.png)](https://youtu.be/SkPq1Y5yoWk)
 
+##### Simple Tessellation
 
-
-
-[![OpenGL](01_HeightMap/HeightMap.png)](https://youtu.be/SkPq1Y5yoWk)
-
-
-
-##### Simple Tesselation
 ![Standard Tessellation](02_Tessilation/S1.png)
 
-
-
-[![Video Thumbnail](https://img.youtube.com/vi/Sx4YjVkJDxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sx4YjVkJDxQ)
-
-
+[![Video Thumbnail - Standard Tessellation](https://img.youtube.com/vi/Sx4YjVkJDxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sx4YjVkJDxQ)
 
 ## Folder Structure
 
@@ -57,7 +51,7 @@ Follow these steps to build the project using Visual Studio 2022:
     ```bash
     git clone https://github.com/Tushar-Wagdare/OpenGL-Tessellation.git
     ```
-2.  **Open the Solution:** Open the `OGL.sln` file in Visual Studio 2022 within either the `01_HeightMap` or `02_Tessellation` folder.
+2.  **Open the Solution:** Open the `OGL.sln` file in Visual Studio 2022 within either the `01_HeightMap` or `02_Tessellation` folder. **(Important: Each folder has separate project. Make sure to open the correct `.sln` file for the technique you wish to build.)**
 3.  **Build the Solution:** Go to `Build` -> `Build Solution` (or press `Ctrl+Shift+B`).
 4.  **Ensure all dependencies are present:** Make sure all the dependencies are installed and placed in the system environment.
 5.  **Run the Solution:** After building, run the executable located in the respective `x64/Debug` directory.
@@ -65,3 +59,12 @@ Follow these steps to build the project using Visual Studio 2022:
 ## Usage
 
 After successfully building the project, you can run the executable located in the `x64/Debug` directory within either the `01_HeightMap` or `02_Tessellation` folder. Explore the two different techniques and observe their different approaches.
+**Important: Run the executable corresponding to the `.sln` file you used to build.**
+
+```html
+<style>
+img {
+  max-width: 600px; /* Set your desired standard width */
+  height: auto; /* Maintain aspect ratio */
+}
+</style>
