@@ -6,8 +6,6 @@ This repository demonstrates the implementation of Tessellation in OpenGL using 
 
 ## Screenshots
 
-To maintain visual consistency, all images are displayed with a maximum width of 600 pixels. This ensures that larger images are scaled down to fit the layout, while smaller images retain their original size and are not stretched. The height is automatically adjusted to preserve the aspect ratio.
-
 ##### Height Map Tessellation
 
 ![Height Map Tessellation](01_HeightMap/S1.png)
@@ -61,10 +59,4 @@ Follow these steps to build the project using Visual Studio 2022:
 After successfully building the project, you can run the executable located in the `x64/Debug` directory within either the `01_HeightMap` or `02_Tessellation` folder. Explore the two different techniques and observe their different approaches.
 **Important: Run the executable corresponding to the `.sln` file you used to build.**
 
-```html
-<style>
-img {
-  max-width: 600px; /* Images wider than 600px will be scaled down. Smaller images will remain at their original size. */
-  height: auto; /* Maintain aspect ratio */
-}
-</style>
+
